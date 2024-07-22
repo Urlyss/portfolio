@@ -23,4 +23,5 @@ const AnimatedPageHeader = React.forwardRef<
   </motion.h1>
 ));
 
+AnimatedPageHeader.displayName = "AnimatedPageHeader"
 export default AnimatedPageHeader;

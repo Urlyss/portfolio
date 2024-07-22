@@ -22,4 +22,5 @@ const AnimatedCard = React.forwardRef<
   </motion.div>
 ));
 
+AnimatedCard.displayName = "AnimatedCard"
 export default AnimatedCard;
